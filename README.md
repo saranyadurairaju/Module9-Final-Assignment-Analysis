@@ -70,9 +70,9 @@ In this we are using Python, Pandas, and SQLAlchemy to do the below steps to gen
 
 Here are the links for python and sqlite files:
 
-1) 
+1) https://github.com/saranyadurairaju/Module9-Final-Assignment-Analysis/blob/main/SurfsUp_Challenge.ipynb
 
-2) 
+2) https://github.com/saranyadurairaju/Module9-Final-Assignment-Analysis/blob/main/hawaii.sqlite
 
 
 #### Key differences between June and December weather
@@ -96,20 +96,34 @@ We have got the summary Statistics for the month of June and December. So now it
 
 We can even perform some more analysis for better understanding and profitable business: 
 
-#### 1) Values per Station 
 
-We can find the counts for each station and statistical values for station with highest count:
+#### 1) Counts per Station 
+
+We can find the counts for each station for the month of June and December.
 
 * Below are the results for June month:
 
-![image](https://user-images.githubusercontent.com/85472349/129515438-8842e513-19fb-45a9-b896-28cef0836cdd.png)
+![image](https://user-images.githubusercontent.com/85472349/129516997-6ef03d56-3ba4-42c8-b587-9545f39e44dd.png)
 
 * Below are the results for December month:
 
-![image](https://user-images.githubusercontent.com/85472349/129515521-d62243d0-f1cf-424f-9541-66c4e669446c.png)
+![image](https://user-images.githubusercontent.com/85472349/129517044-c6bc8bd9-d938-42bb-92f9-e991fbfee18d.png)
 
 
-#### 2) Plot with bins 
+#### 2) Values (Min, Max & Avg) for the Station 
+
+We are finding the Minimum, Maximum and Average temperature values for the Station with highest count.
+
+* Below are the results for June month:
+
+![image](https://user-images.githubusercontent.com/85472349/129517105-2237eaaf-c9d3-4281-af31-62c04184e235.png)
+
+* Below are the results for December month:
+
+![image](https://user-images.githubusercontent.com/85472349/129517139-dd0093b1-5cce-4c38-88e1-ed4f3f4fa045.png)
+
+
+#### 3) Plot with bins 
 
 The plot with bin values will give a look-good feel of the data. Below are the plots for June & December month:
 
